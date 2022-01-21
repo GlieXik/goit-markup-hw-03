@@ -191,6 +191,7 @@ section {
   margin-top: 10px;
 }
 .about-after {
+  padding-top: 0;
 }
 /* -------ABOUT-AFTER-INDEX------- */
 .about-after-title {
@@ -350,14 +351,11 @@ section {
   color: #fff;
 }
 /* -------MAIN-PORTFOLIO------- */
-.section-portfolio-container {
-  margin: 0px auto 0px auto;
-  width: 1200px;
-  padding: 50px 15px 94px 15px;
-}
+
 .section-portfolio {
   display: flex;
   flex-wrap: wrap;
+  padding-top: 50px;
 }
 .section-item {
   width: 370px;
